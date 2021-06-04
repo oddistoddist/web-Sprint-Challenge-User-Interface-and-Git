@@ -173,7 +173,7 @@ p {
 	border-bottom: 1px dashed black;
 }
 .under {
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	border-bottom: 1px dashed black;
 }
 
@@ -192,7 +192,6 @@ p {
 }
 .top-content2 .text-container2 {
 	width: 95%;
-	margin-bottom: 3%;
 	/* padding: 0 1%; */
 }
 .text-container2 p {
@@ -337,7 +336,7 @@ body {
 	max-width: 100%;
 }
 #navmarg {
-	margin: 0 30%;
+	margin: 3% 6%;
 }
 /* nav {
 	background: #fff;
