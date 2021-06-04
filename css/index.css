@@ -152,6 +152,8 @@ h5 {
 }
 
 p {
+	font-size: 15px;
+	font-weight: 600;
 	line-height: 1.4;
 }
 
@@ -248,6 +250,28 @@ nav {
 	margin-right: 5%;
 	margin: 3% 0;
 }
-nav a {
-	margin-top: 3%;
+a {
+	margin-top: 2%;
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+	padding: 1%;
+	border-radius: 2px;
+	transition: 1.5s;
+}
+.imgcont {
+	height: 40px;
+}
+nav a:hover {
+	color: white;
+	/* padding: .2%; */
+	background: black;
+}
+.streetimg {
+	width: 100%;
+	height: 10vh;
+	/* background: url(' ./img/jumbo.jpg') no-repeat center; */
+	background: url('/img/jumbo.jpg') no-repeat center;
+	/* background-size: cover; */
+	margin-bottom: 2%;
 }
